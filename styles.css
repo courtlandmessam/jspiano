@@ -2,9 +2,19 @@
   box-sizing: border-box;
 }
 
+nav {
+  font-size: 1.75rem;
+  margin-left: .5rem;
+  margin-top: .5rem;
+}
+
 body {
   background-color: #143F6B;
   margin: 0;
+
+}
+
+.container {
   min-height: 100vh;
   display: flex;
   justify-content: center;
